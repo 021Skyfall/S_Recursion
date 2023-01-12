@@ -1,4 +1,4 @@
 package Quest;
 
-public class e_ {
+public class f_ {
 }
